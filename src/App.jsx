@@ -856,7 +856,7 @@ function App() {
           <p className="section-kicker">Contact</p>
           <h2 id="contact-heading">Reach out!</h2>
           <p>
-            I'm always interested in opportunities where I can put my problem solving skills to use, pleae feel free to contact me.
+            I'm always interested in opportunities where I can put my problem solving skills to use, please feel free to contact me.
           </p>
         </MotionDiv>
         <MotionDiv className="contact-panel" variants={containerVariants}>
